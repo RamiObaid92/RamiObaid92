@@ -40,13 +40,13 @@ I’m passionate about building secure, scalable, and well-structured software �
 - Advanced ASP.NET Core architecture (CQRS, MediatR)
 - React Context and authentication workflows
 - DevOps fundamentals and smoother deployment pipelines
-- Testing (unit/integration) for backend systems
 
 ---
 
 ## Let's Connect
 
-Feel free to explore my projects or reach out if you have any interests in mind regarding projects.
+I'm always open to contributing to interesting projects, learning from others, and sharing what I know.  
+Feel free to explore my work or reach out if you're into clean code, good architecture, or just enjoy geeking out over tech.
 
 > "Learning never exhausts the mind — it only fuels the next project."
 
