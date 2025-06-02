@@ -23,7 +23,7 @@ Iâ€™m passionate about building secure, scalable, and well-structured software â
 - SQL Server, MySQL
 - MongoDB (NoSQL)
 
-- ### Testing
+### Testing
 - Unit Testing with **xUnit**
 - Mocking with **Moq**
 - Testable architecture using dependency injection and abstraction
