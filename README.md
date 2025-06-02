@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Rami Obaid
 
 **Software Developer** focused on **C#** and the **.NET ecosystem**.  
-I’m passionate about building secure, scalable, and well-structured software — and always eager to learn more.
+I’m passionate about building secure, scalable, and well-structured software and always eager to learn more.
 
 ---
 
