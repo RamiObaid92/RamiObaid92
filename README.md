@@ -36,6 +36,10 @@ I’m passionate about building secure, scalable, and well-structured software a
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiObaid92)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🔍 Currently Exploring
 
 - Advanced ASP.NET Core architecture
