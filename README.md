@@ -29,14 +29,9 @@ I’m passionate about building secure, scalable, and well-structured software a
 - Mocking with **Moq**
 - Testable architecture using dependency injection and abstraction
 
-### Additional Tools & Practices
-- Git, GitHub, CI/CD workflows
-- DTOs, Services, Mappers, Repositories
-- Swagger, Logging, environment-based configs
-
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiObaid92)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
