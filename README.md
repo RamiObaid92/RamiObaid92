@@ -29,6 +29,8 @@ I’m passionate about building secure, scalable, and well-structured software a
 - Mocking with **Moq**
 - Testable architecture using dependency injection and abstraction
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiObaid92&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
 
 ---
