@@ -37,8 +37,7 @@ I’m passionate about building secure, scalable, and well-structured software �
 
 ## 🔍 Currently Exploring
 
-- Advanced ASP.NET Core architecture (CQRS, MediatR)
-- React Context and authentication workflows
+- Advanced ASP.NET Core architecture
 - DevOps fundamentals and smoother deployment pipelines
 
 ---
