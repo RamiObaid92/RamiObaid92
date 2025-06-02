@@ -1,5 +1,6 @@
 ## 👋 Hi there, I'm Rami Obaid
 
+### About me:
 **Software Developer** focused on **C#** and the **.NET ecosystem**.  
 I’m passionate about building secure, scalable, and well-structured software and always eager to learn more.
 
@@ -10,7 +11,7 @@ I’m passionate about building secure, scalable, and well-structured software a
 ### Backend Development
 - C#, .NET Core, ASP.NET
 - Entity Framework Core, LINQ
-- RESTful Web APIs, Middleware
+- RESTful Web APIs, gRPC, Middleware
 - Authentication & Authorization: JWT, Identity, Cookie Auth, API Keys
 - OOP, SOLID Principles, Clean Architecture
 
