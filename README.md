@@ -1,11 +1,11 @@
-## Hi there, I'm Rami Obaid 👋
+## 👋 Hi there, I'm Rami Obaid
 
 **Software Developer** focused on **C#** and the **.NET ecosystem**.  
 I’m passionate about building secure, scalable, and well-structured software — and always eager to learn more.
 
 ---
 
-## Skills & Tech Stack
+## 🧰 Skills & Tech Stack
 
 ### Backend Development
 - C#, .NET Core, ASP.NET
@@ -35,7 +35,7 @@ I’m passionate about building secure, scalable, and well-structured software �
 
 ---
 
-## Currently Exploring
+## 🔍 Currently Exploring
 
 - Advanced ASP.NET Core architecture (CQRS, MediatR)
 - React Context and authentication workflows
@@ -43,10 +43,9 @@ I’m passionate about building secure, scalable, and well-structured software �
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to contributing to interesting projects, learning from others, and sharing what I know.  
 Feel free to explore my work or reach out if you're into clean code, good architecture, or just enjoy geeking out over tech.
 
-> "Learning never exhausts the mind — it only fuels the next project."
-
+> _"Learning never exhausts the mind — it only fuels the next project."_
