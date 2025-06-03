@@ -10,11 +10,12 @@ I’m passionate about building secure, scalable, and well-structured software a
 - Backend Development
   - C#, .NET Core, ASP.NET
 - Entity Framework Core, LINQ
+- Frontend Development
+  - HTML, CSS, JavaScript, TypeScript
+  - React, Angular, MVC
 - RESTful Web APIs, gRPC, Middleware
 - Authentication & Authorization: JWT, Identity, Cookie Auth, API Keys
 - OOP, SOLID Principles, Clean Architecture
-- HTML, CSS, JavaScript, TypeScript
-- React, Angular, MVC
 - Component-driven UI, state management
 - SQL Server, MySQL
 - MongoDB (NoSQL)
