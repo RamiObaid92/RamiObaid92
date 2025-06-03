@@ -9,21 +9,20 @@ I’m passionate about building secure, scalable, and well-structured software a
 ## 🧰 Skills & Tech Stack
 - Backend Development
   - C#, .NET Core, ASP.NET
-- Entity Framework Core, LINQ
+- Databases
+  - SQL Server, MySQL, MongoDB (NoSQL)
 - Frontend Development
   - HTML, CSS, JavaScript, TypeScript
-  - React, Angular, MVC
+  - React, Angular, Razor, MVC
+  - Component-driven UI, state management
+- Entity Framework Core, LINQ
 - RESTful Web APIs, gRPC, Middleware
 - Authentication & Authorization: JWT, Identity, Cookie Auth, API Keys
 - OOP, SOLID Principles, Clean Architecture
-- Component-driven UI, state management
-- SQL Server, MySQL
-- MongoDB (NoSQL)
-
-### Testing
-- Unit Testing with **xUnit**
-- Mocking with **Moq**
-- Testable architecture using dependency injection and abstraction
+- Testing
+  - Unit Testing with **xUnit**
+  - Mocking with **Moq**
+  - Testable architecture using dependency injection and abstraction
 
 ---
 
