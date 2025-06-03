@@ -8,7 +8,7 @@ I’m passionate about building secure, scalable, and well-structured software a
 
 ## 🧰 Skills & Tech Stack
 - Backend Development
--- C#, .NET Core, ASP.NET
+  - C#, .NET Core, ASP.NET
 - Entity Framework Core, LINQ
 - RESTful Web APIs, gRPC, Middleware
 - Authentication & Authorization: JWT, Identity, Cookie Auth, API Keys
