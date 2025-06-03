@@ -27,7 +27,7 @@ I’m passionate about building secure, scalable, and well-structured software a
 I'm always open to contributing to interesting projects, learning from others, and sharing what I know.  
 Feel free to explore my work or reach out if you're into clean code, good architecture, or just enjoy geeking out over tech.
 
-> "Learning never exhausts the mind — it only fuels the next project."
+ "Learning never exhausts the mind — it only fuels the next project."
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiObaid92&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
