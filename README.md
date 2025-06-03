@@ -22,7 +22,7 @@ I’m passionate about building secure, scalable, and well-structured software a
   - Mocking with **Moq**
   - Testable architecture using dependency injection and abstraction
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
 I'm always open to contributing to interesting projects, learning from others, and sharing what I know.  
 Feel free to explore my work or reach out if you're into clean code, good architecture, or just enjoy geeking out over tech.
