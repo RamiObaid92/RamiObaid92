@@ -30,7 +30,7 @@ Feel free to explore my work or reach out if you're into clean code, good archit
  _"Learning never exhausts the mind — it only fuels the next project."_
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiObaid92&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](github-stats-extended.vercel.app/api?username=RamiObaid92&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiObaid92&layout=compact&theme=tokyonight)
+![Top Langs](github-stats-extended.vercel.app/api/top-langs/?username=RamiObaid92&layout=compact&theme=tokyonight)
